@@ -19,4 +19,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Help
 
 - ***Я хочу чтобы оно монтировалося на лету, не удаляя код внетри родительского тега, для этого нужно использовать другой бандлер(или рендер функцию)***
-main.js ```import { createApp } from 'vue/dist/vue.esm-bundler';```
+
+ **main.js** ```import { createApp } from 'vue/dist/vue.esm-bundler';```
